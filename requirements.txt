@@ -1,0 +1,18 @@
+# Web Crawler Tool (WCT) v2.0
+# Module: ST4017CMD — Introduction to Programming
+# Softwarica College of IT & E-Commerce
+
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+rich>=13.0.0
+
+# Assignment document generation
+python-docx>=0.8.11
+matplotlib>=3.7.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Testing (built-in, no extra install needed)
+# unittest — included in Python standard library
